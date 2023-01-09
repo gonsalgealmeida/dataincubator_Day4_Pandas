@@ -1,4 +1,4 @@
-import pandas as pd
-import re as re
-from matplotlib import pyplot as plt
-import numpy as np
+pandas
+re 
+matplotlib 
+numpy 
